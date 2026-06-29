@@ -37,7 +37,7 @@ Haar Cascade is one of OpenCV's classical object detection techniques and is wid
 ├── output_face.jpg
 ├── README.md
 │
-└── ../cascade/
+└── cascade/
     └── haarcascade_frontalface_default.xml
 ```
 
