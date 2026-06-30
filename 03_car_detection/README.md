@@ -71,7 +71,7 @@ pip install opencv-python numpy
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/opencv-computer-vision-projects.git
+git clone https://github.com/manasranjanmeher99/opencv-computer-vision-projects.git
 ```
 
 ### 2. Navigate to the project directory
