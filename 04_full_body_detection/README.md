@@ -156,10 +156,7 @@ Example:
 +-------------------------+
 ```
 
-
-```markdown
 ![Full Body Detection](screenshot/full_body_detection_output.png)
-```
 
 ---
 
